@@ -1,1 +1,23 @@
  
+hyrum@Shinku:~$ neofetch
+            .-/+oossssoo+/-.               hyrum@Shinku
+        `:+ssssssssssssssssss+:`           ------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 23.10 x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: Laptop 13 (AMD Ryzen 704
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.5.0-25-generic
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 14 hours, 9 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2494 (dpkg), 7 (snap
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.15
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Plasma 5.27.8
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: kwin
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: [Plasma], Breeze [GTK2/
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Icons: [Plasma], breeze-dark [
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: konsole
+  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD Ryzen 5 7640U w/ Rade
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: AMD ATI c1:00.0 Phoenix1
+    .ossssssssssssssssssdMMMNysssso.       Memory: 5896MiB / 13650MiB
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+
